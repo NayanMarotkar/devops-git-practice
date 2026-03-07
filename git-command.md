@@ -12,4 +12,5 @@ git checkout -b - used to switch branches as well as create branches
 git clone - used to clone git repo
 git push - used to push local changes to remote repo
 git remote -v - to check the origin addr.
-git log - used to checke logs of commit 
+git log - used to checke logs of commit
+git pull - pull che changes from remote repo
