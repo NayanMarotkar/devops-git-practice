@@ -14,4 +14,5 @@ git push - used to push local changes to remote repo
 git remote -v - to check the origin addr.
 git log - used to checke logs of commit
 git pull - pull che changes from remote repo
+git branch - create a branch 
 git branch -d - to delete the branch in git repo
