@@ -15,3 +15,4 @@ git remote -v - to check the origin addr.
 git log - used to checke logs of commit
 git pull - pull che changes from remote repo
 git branch -d - to delete the branch in git repo
+git branch -D - used to force delete the branch
