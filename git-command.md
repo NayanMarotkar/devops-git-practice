@@ -17,3 +17,4 @@ git pull - pull che changes from remote repo
 git branch -d - to delete the branch in git repo
 git branch -D - used to force delete the branch
 git merge  - used to merge branches
+git merge --squash - used to squash multiple commit and will give you only single commit 
